@@ -1,5 +1,5 @@
 * {
-    font-family: Inter;
+    font-family: 'Inter', sans-serif;
 }
 
 /* header section styles */
@@ -447,3 +447,5 @@
     height: 72px;
     padding: 26px 6px;
 }
+
+/* footer section styles */
