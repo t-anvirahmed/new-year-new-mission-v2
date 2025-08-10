@@ -1,0 +1,34 @@
+/* header section styles */
+.banner-image {
+    background-image: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%), url('../images/Banner\ Image.png');
+    width: 1320px;
+    height: 600px;
+    background-repeat: no-repeat;
+    border-radius: 16px;
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.banner-content {
+    font-family: Merriweather;
+}
+
+.banner-content h5 {
+    color: #fff;
+    text-align: center;
+    font-size: 32px;
+    font-weight: 400;
+    padding-top: 175px;
+    margin: 0;
+    line-height: normal;
+}
+
+.banner-content h1 {
+    color: #fff;
+    font-size: 72px;
+    font-weight: 700;
+    width: 632px;
+    text-align: center;
+    margin: auto;
+}
